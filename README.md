@@ -17,7 +17,7 @@ The `MentorMatching` smart contract is a decentralized application (DApp) that f
 
 ## Diagram
 
-![MentorMatching Diagram](https://via.placeholder.com/500x300?text=MentorMatching+Diagram)
+![MentorMatching Diagram]([https://via.placeholder.com/500x300?text=MentorMatching+Diagram](https://greatmindsinstem.org/wp-content/uploads/2021/10/MentorNet_circle.png))
 
 *Diagram: Process flow showing Mentor and Mentee registration, followed by the matching process based on interests.*
 
