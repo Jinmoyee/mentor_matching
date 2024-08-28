@@ -132,4 +132,14 @@ This points to a script that interacts with your smart contract. The script file
 
 This project is licensed under the MIT License.
 
----
+##  Contact:
+
+Name: Jinmoyee Thakuria
+Roll No: 21RISTCSE011
+Ph: 6003248976
+
+## Deployment
+
+contact address 0x245cb128442F47F825f40419F3454409014E720A
+![image](https://github.com/user-attachments/assets/7394b84c-7aa8-4456-95d0-f737c16d8edb)
+
